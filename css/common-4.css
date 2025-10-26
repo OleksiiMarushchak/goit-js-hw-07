@@ -1,0 +1,19 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 360px;
+    margin: 24px;
+    gap: 8px;
+}
+.login-form label {
+    font-weight: 400;
+    font-size: 16px;
+    color: #2e2f42;
+    gap: 8px;
+
+    display: flex;
+    flex-direction: column;
+}
+.login-form button {
+    margin-top: 8px;
+}
